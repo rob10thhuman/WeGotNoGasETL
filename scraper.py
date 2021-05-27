@@ -32,5 +32,10 @@ print(cars_list)
 
 result = cars_list.to_json(orient = 'split')
 parsed = json.loads(result)
-json.dumps(parsed, indent=4)
 
+joutput = json.dumps(parsed, indent=4)
+print(joutput)
+
+f = open("json.txt", "a")
+f.write(joutput)
+f.close()

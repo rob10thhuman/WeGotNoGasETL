@@ -1,0 +1,110 @@
+{
+    "columns": [
+        0,
+        "Traits"
+    ],
+    "index": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+    ],
+    "data": [
+        [
+            "Jaguar I-Pace \u2014 76 MPGe",
+            "Base price: $70,875 EPA fuel economy, combined/city/highway: 76/80/72 MPGe EPA combined range: 234 miles"
+        ],
+        [
+            "Audi e-tron Sportback \u2014 77 MPGe",
+            "Base price: $66,995EPA fuel economy, combined/city/highway: 77/76/78 MPGe EPA combined range: 218 miles"
+        ],
+        [
+            "Audi e-tron \u2014 78 MPGe",
+            "Base price: $66,995EPA fuel economy, combined/city/highway: 78/78/77 MPGe EPA combined range: 222 miles "
+        ],
+        [
+            "Porsche Taycan \u2014 79 MPGe (tie)",
+            "Base price: $105,150 (Taycan 4S)EPA fuel economy, combined/city/highway: 79/79/80 MPGe EPA combined range: 222 miles "
+        ],
+        [
+            "Volvo XC40 Recharge \u2014 79 MPGe (tie)",
+            "Base price: $55,085EPA fuel economy, combined/city/highway: 79/85/72 MPGe EPA combined range: 208 miles"
+        ],
+        [
+            "Polestar 2 \u2014 92 MPGe",
+            "Base price: $61,200EPA fuel economy, combined/city/highway: 92/96/88 MPGe EPA combined range: 233 miles "
+        ],
+        [
+            "Tesla Model X  \u2014 96 MPGe",
+            ""
+        ],
+        [
+            "Volkswagen ID.4 \u2014 97 MPGe",
+            "Base price: $86,190 EPA fuel economy, combined/city/highway: 96/99/93 MPGe EPA combined range: 328 miles"
+        ],
+        [
+            "Ford Mustang Mach-E \u2014 100 MPGe",
+            "Base price: $41,190EPA fuel economy, combined/city/highway: 97/104/89 MPGe EPA combined range: 250 miles"
+        ],
+        [
+            "Mini Electric \u2014 108 MPGe",
+            "Base price: $43,995EPA fuel economy, combined/city/highway: 100/105/93 MPGe EPA combined range: 300 miles"
+        ],
+        [
+            "Nissan Leaf \u2014 111 MPGe (tie)",
+            "Base price: $30,750 EPA fuel economy, combined/city/highway: 108/115/100 MPGe EPA combined range: 110 miles "
+        ],
+        [
+            "Tesla Model S \u2014 111 MPGe (tie)",
+            "Base price: $32,525 EPA fuel economy, combined/city/highway: 111/123/99 MPGe EPA combined range: 149 miles (40 kW-hr Battery Pack)"
+        ],
+        [
+            "Kia Niro EV \u2014 112 MPGe (tie)",
+            "Base price: $81,190 EPA fuel economy, combined/city/highway: 111/115/107 MPGe EPA combined range: 373 miles  "
+        ],
+        [
+            "BMW i3 \u2014 113 MPGe",
+            "Base price: $39,620 EPA fuel economy, combined/city/highway: 112/123/102 MPGe EPA combined range: 239 miles "
+        ],
+        [
+            "Chevrolet Bolt EV \u2014 118 MPGe",
+            "Base price: $45,445 EPA fuel economy, combined/city/highway: 113/124/102 MPGe EPA combined range: 153 miles "
+        ],
+        [
+            "Hyundai Kona Electric \u2014 120 MPGe",
+            "Base price: $37,495EPA fuel economy, combined/city/highway: 118/127/108 MPGe EPA combined range: 259 miles "
+        ],
+        [
+            "Tesla Model Y \u2014 125 MPGe",
+            "Base price: $38,330 EPA fuel economy, combined/city/highway: 120/132/108 MPGe EPA combined range: 258 miles"
+        ],
+        [
+            "Hyundai Ioniq Electric \u2014 133 MPGe",
+            "Base price: $62,190EPA fuel economy, combined/city/highway: 125/131/117 MPGe EPA combined range: 326 miles (Long Range AWD)"
+        ],
+        [
+            "Tesla Model 3 \u2014 134 MPGe",
+            "Base price: $34,020 EPA fuel economy, combined/city/highway: 133/145/121 MPGe EPA combined range: 170 miles "
+        ],
+        [
+            "",
+            "Base price: $41,190 EPA fuel economy, combined/city/highway: 134/141/127 MPGe EPA combined range: 353 miles (Long Range AWD)"
+        ]
+    ]
+}
