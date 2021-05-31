@@ -36,6 +36,6 @@ parsed = json.loads(result)
 joutput = json.dumps(parsed, indent=4)
 print(joutput)
 
-f = open("json.txt", "a")
-f.write(joutput)
+f = open("cars_list.csv", "a")
+f.write(cars_list)
 f.close()
