@@ -1,116 +1,116 @@
-{
-    "0": {
-        "vehicle": "Jaguar I-Pace ",
-        "baseprice": "$70,875",
-        "epafueleconomy": " 76/80/72 MPGe",
-        "eparange": " 234 miles"
-    },
-    "1": {
-        "vehicle": "Audi e-tron Sportback ",
-        "baseprice": "$66,995",
-        "epafueleconomy": " 77/76/78 MPGe",
-        "eparange": " 218 miles"
-    },
-    "2": {
-        "vehicle": "Audi e-tron ",
-        "baseprice": "$66,995",
-        "epafueleconomy": " 78/78/77 MPGe",
-        "eparange": " 222 miles"
-    },
-    "3": {
-        "vehicle": "Porsche Taycan ",
-        "baseprice": "$105,150",
-        "epafueleconomy": " 79/79/80 MPGe",
-        "eparange": " 222 miles"
-    },
-    "4": {
-        "vehicle": "Volvo XC40 Recharge ",
-        "baseprice": "$55,085",
-        "epafueleconomy": " 79/85/72 MPGe",
-        "eparange": " 208 miles"
-    },
-    "5": {
-        "vehicle": "Polestar 2 ",
-        "baseprice": "$61,200",
-        "epafueleconomy": " 92/96/88 MPGe",
-        "eparange": " 233 miles"
-    },
-    "6": {
-        "vehicle": "Tesla Model X  ",
-        "baseprice": "$86,190",
-        "epafueleconomy": " 96/99/93 MPGe",
-        "eparange": " 328 miles"
-    },
-    "7": {
-        "vehicle": "Volkswagen ID.4 ",
-        "baseprice": "$41,190",
-        "epafueleconomy": " 97/104/89 MPGe",
-        "eparange": " 250 miles"
-    },
-    "8": {
-        "vehicle": "Ford Mustang Mach-E ",
-        "baseprice": "$43,995",
-        "epafueleconomy": " 100/105/93 MPGe",
-        "eparange": " 300 miles"
-    },
-    "9": {
-        "vehicle": "Mini Electric ",
-        "baseprice": "$30,750",
-        "epafueleconomy": " 108/115/100 MPGe",
-        "eparange": " 110 miles"
-    },
-    "10": {
-        "vehicle": "Nissan Leaf ",
-        "baseprice": "$32,525",
-        "epafueleconomy": " 111/123/99 MPGe",
-        "eparange": " 149 miles"
-    },
-    "11": {
-        "vehicle": "Tesla Model S ",
-        "baseprice": "$81,190",
-        "epafueleconomy": " 111/115/107 MPGe",
-        "eparange": " 373 miles"
-    },
-    "12": {
-        "vehicle": "Kia Niro EV ",
-        "baseprice": "$39,620",
-        "epafueleconomy": " 112/123/102 MPGe",
-        "eparange": " 239 miles"
-    },
-    "13": {
-        "vehicle": "BMW i3 ",
-        "baseprice": "$45,445",
-        "epafueleconomy": " 113/124/102 MPGe",
-        "eparange": " 153 miles"
-    },
-    "14": {
-        "vehicle": "Chevrolet Bolt EV ",
-        "baseprice": "$37,495",
-        "epafueleconomy": " 118/127/108 MPGe",
-        "eparange": " 259 miles"
-    },
-    "15": {
-        "vehicle": "Hyundai Kona Electric ",
-        "baseprice": "$38,330",
-        "epafueleconomy": " 120/132/108 MPGe",
-        "eparange": " 258 miles"
-    },
-    "16": {
-        "vehicle": "Tesla Model Y ",
-        "baseprice": "$62,190",
-        "epafueleconomy": " 125/131/117 MPGe",
-        "eparange": " 326 miles"
-    },
-    "17": {
-        "vehicle": "Hyundai Ioniq Electric ",
-        "baseprice": "$34,020",
-        "epafueleconomy": " 133/145/121 MPGe",
-        "eparange": " 170 miles"
-    },
-    "18": {
-        "vehicle": "Tesla Model 3 ",
-        "baseprice": "$41,190",
-        "epafueleconomy": " 134/141/127 MPGe",
-        "eparange": " 353 miles"
-    }
-}
+[
+    [
+        "Jaguar I-Pace ",
+        "$70,875",
+        " 76/80/72 MPGe",
+        " 234 miles"
+    ],
+    [
+        "Audi e-tron Sportback ",
+        "$66,995",
+        " 77/76/78 MPGe",
+        " 218 miles"
+    ],
+    [
+        "Audi e-tron ",
+        "$66,995",
+        " 78/78/77 MPGe",
+        " 222 miles"
+    ],
+    [
+        "Porsche Taycan ",
+        "$105,150",
+        " 79/79/80 MPGe",
+        " 222 miles"
+    ],
+    [
+        "Volvo XC40 Recharge ",
+        "$55,085",
+        " 79/85/72 MPGe",
+        " 208 miles"
+    ],
+    [
+        "Polestar 2 ",
+        "$61,200",
+        " 92/96/88 MPGe",
+        " 233 miles"
+    ],
+    [
+        "Tesla Model X  ",
+        "$86,190",
+        " 96/99/93 MPGe",
+        " 328 miles"
+    ],
+    [
+        "Volkswagen ID.4 ",
+        "$41,190",
+        " 97/104/89 MPGe",
+        " 250 miles"
+    ],
+    [
+        "Ford Mustang Mach-E ",
+        "$43,995",
+        " 100/105/93 MPGe",
+        " 300 miles"
+    ],
+    [
+        "Mini Electric ",
+        "$30,750",
+        " 108/115/100 MPGe",
+        " 110 miles"
+    ],
+    [
+        "Nissan Leaf ",
+        "$32,525",
+        " 111/123/99 MPGe",
+        " 149 miles"
+    ],
+    [
+        "Tesla Model S ",
+        "$81,190",
+        " 111/115/107 MPGe",
+        " 373 miles"
+    ],
+    [
+        "Kia Niro EV ",
+        "$39,620",
+        " 112/123/102 MPGe",
+        " 239 miles"
+    ],
+    [
+        "BMW i3 ",
+        "$45,445",
+        " 113/124/102 MPGe",
+        " 153 miles"
+    ],
+    [
+        "Chevrolet Bolt EV ",
+        "$37,495",
+        " 118/127/108 MPGe",
+        " 259 miles"
+    ],
+    [
+        "Hyundai Kona Electric ",
+        "$38,330",
+        " 120/132/108 MPGe",
+        " 258 miles"
+    ],
+    [
+        "Tesla Model Y ",
+        "$62,190",
+        " 125/131/117 MPGe",
+        " 326 miles"
+    ],
+    [
+        "Hyundai Ioniq Electric ",
+        "$34,020",
+        " 133/145/121 MPGe",
+        " 170 miles"
+    ],
+    [
+        "Tesla Model 3 ",
+        "$41,190",
+        " 134/141/127 MPGe",
+        " 353 miles"
+    ]
+]
