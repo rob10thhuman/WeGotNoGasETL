@@ -1,0 +1,116 @@
+[
+    {
+        "Vehicle": "Jaguar I-Pace \u2014 76 MPGe",
+        "BasePrice": "$70,875",
+        "EPAFuelEconomy": "76/80/72 MPGe",
+        "EPARange": "234 miles"
+    },
+    {
+        "Vehicle": "Audi e-tron Sportback \u2014 77 MPGe",
+        "BasePrice": "$66,995",
+        "EPAFuelEconomy": "77/76/78 MPGe",
+        "EPARange": "218 miles"
+    },
+    {
+        "Vehicle": "Audi e-tron \u2014 78 MPGe",
+        "BasePrice": "$66,995",
+        "EPAFuelEconomy": "78/78/77 MPGe",
+        "EPARange": "222 miles"
+    },
+    {
+        "Vehicle": "Porsche Taycan \u2014 79 MPGe (tie)",
+        "BasePrice": "$105,150 (Taycan 4S)",
+        "EPAFuelEconomy": "79/79/80 MPGe",
+        "EPARange": "222 miles"
+    },
+    {
+        "Vehicle": "Volvo XC40 Recharge \u2014 79 MPGe (tie)",
+        "BasePrice": "$55,085",
+        "EPAFuelEconomy": "79/85/72 MPGe",
+        "EPARange": "208 miles"
+    },
+    {
+        "Vehicle": "Polestar 2 \u2014 92 MPGe",
+        "BasePrice": "$61,200",
+        "EPAFuelEconomy": "92/96/88 MPGe",
+        "EPARange": "233 miles"
+    },
+    {
+        "Vehicle": "Tesla Model X  \u2014 96 MPGe",
+        "BasePrice": "$86,190",
+        "EPAFuelEconomy": "96/99/93 MPGe",
+        "EPARange": "328 miles"
+    },
+    {
+        "Vehicle": "Volkswagen ID.4 \u2014 97 MPGe",
+        "BasePrice": "$41,190",
+        "EPAFuelEconomy": "97/104/89 MPGe",
+        "EPARange": "250 miles"
+    },
+    {
+        "Vehicle": "Ford Mustang Mach-E \u2014 100 MPGe",
+        "BasePrice": "$43,995",
+        "EPAFuelEconomy": "100/105/93 MPGe",
+        "EPARange": "300 miles"
+    },
+    {
+        "Vehicle": "Mini Electric \u2014 108 MPGe",
+        "BasePrice": "$70,875",
+        "EPAFuelEconomy": "76/80/72 MPGe",
+        "EPARange": "234 miles"
+    },
+    {
+        "Vehicle": "Nissan Leaf \u2014 111 MPGe (tie)",
+        "BasePrice": "$30,750",
+        "EPAFuelEconomy": "108/115/100 MPGe",
+        "EPARange": "110 miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    },
+    {
+        "Vehicle": "",
+        "BasePrice": "",
+        "EPAFuelEconomy": " MPGe",
+        "EPARange": " miles"
+    }
+]

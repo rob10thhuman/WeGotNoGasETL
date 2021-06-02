@@ -1,0 +1,116 @@
+[
+    [
+        "Jaguar I-Pace ",
+        "$70,875",
+        " 76/80/72 MPGe",
+        " 234 miles"
+    ],
+    [
+        "Audi e-tron Sportback ",
+        "$66,995",
+        " 77/76/78 MPGe",
+        " 218 miles"
+    ],
+    [
+        "Audi e-tron ",
+        "$66,995",
+        " 78/78/77 MPGe",
+        " 222 miles"
+    ],
+    [
+        "Porsche Taycan ",
+        "$105,150",
+        " 79/79/80 MPGe",
+        " 222 miles"
+    ],
+    [
+        "Volvo XC40 Recharge ",
+        "$55,085",
+        " 79/85/72 MPGe",
+        " 208 miles"
+    ],
+    [
+        "Polestar 2 ",
+        "$61,200",
+        " 92/96/88 MPGe",
+        " 233 miles"
+    ],
+    [
+        "Tesla Model X  ",
+        "$86,190",
+        " 96/99/93 MPGe",
+        " 328 miles"
+    ],
+    [
+        "Volkswagen ID.4 ",
+        "$41,190",
+        " 97/104/89 MPGe",
+        " 250 miles"
+    ],
+    [
+        "Ford Mustang Mach-E ",
+        "$43,995",
+        " 100/105/93 MPGe",
+        " 300 miles"
+    ],
+    [
+        "Mini Electric ",
+        "$30,750",
+        " 108/115/100 MPGe",
+        " 110 miles"
+    ],
+    [
+        "Nissan Leaf ",
+        "$32,525",
+        " 111/123/99 MPGe",
+        " 149 miles"
+    ],
+    [
+        "Tesla Model S ",
+        "$81,190",
+        " 111/115/107 MPGe",
+        " 373 miles"
+    ],
+    [
+        "Kia Niro EV ",
+        "$39,620",
+        " 112/123/102 MPGe",
+        " 239 miles"
+    ],
+    [
+        "BMW i3 ",
+        "$45,445",
+        " 113/124/102 MPGe",
+        " 153 miles"
+    ],
+    [
+        "Chevrolet Bolt EV ",
+        "$37,495",
+        " 118/127/108 MPGe",
+        " 259 miles"
+    ],
+    [
+        "Hyundai Kona Electric ",
+        "$38,330",
+        " 120/132/108 MPGe",
+        " 258 miles"
+    ],
+    [
+        "Tesla Model Y ",
+        "$62,190",
+        " 125/131/117 MPGe",
+        " 326 miles"
+    ],
+    [
+        "Hyundai Ioniq Electric ",
+        "$34,020",
+        " 133/145/121 MPGe",
+        " 170 miles"
+    ],
+    [
+        "Tesla Model 3 ",
+        "$41,190",
+        " 134/141/127 MPGe",
+        " 353 miles"
+    ]
+]
