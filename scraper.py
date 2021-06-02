@@ -25,30 +25,63 @@ cars_list = pd.DataFrame(cars_list)
 traits_list = pd.DataFrame(traits_list)
 
 cars_list['Traits'] = traits_list
-cars_list = cars_list.rename(columns={0: 'Type', 'Traits': 'Data'})
+cars_list = cars_list.rename(columns={0: 'Type'})
 
 cars_list
 
-cars_list['Data'][6] = cars_list['Data'][7]
-cars_list['Data'][7] = cars_list['Data'][8]
-cars_list['Data'][8] = cars_list['Data'][9]
-cars_list['Data'][9] = cars_list['Data'][10]
-cars_list['Data'][10] = cars_list['Data'][11]
-cars_list['Data'][11] = cars_list['Data'][12]
-cars_list['Data'][12] = cars_list['Data'][13]
-cars_list['Data'][13] = cars_list['Data'][14]
-cars_list['Data'][14] = cars_list['Data'][15]
-cars_list['Data'][15] = cars_list['Data'][16]
-cars_list['Data'][16] = cars_list['Data'][17]
-cars_list['Data'][17] = cars_list['Data'][18]
-cars_list['Data'][18] = cars_list['Data'][19]
+cars_list['Traits'][6] = cars_list['Traits'][7]
+cars_list['Traits'][7] = cars_list['Traits'][8]
+cars_list['Traits'][8] = cars_list['Traits'][9]
+cars_list['Traits'][9] = cars_list['Traits'][10]
+cars_list['Traits'][10] = cars_list['Traits'][11]
+cars_list['Traits'][11] = cars_list['Traits'][12]
+cars_list['Traits'][12] = cars_list['Traits'][13]
+cars_list['Traits'][13] = cars_list['Traits'][14]
+cars_list['Traits'][14] = cars_list['Traits'][15]
+cars_list['Traits'][15] = cars_list['Traits'][16]
+cars_list['Traits'][16] = cars_list['Traits'][17]
+cars_list['Traits'][17] = cars_list['Traits'][18]
+cars_list['Traits'][18] = cars_list['Traits'][19]
 cars_list = cars_list.drop(19)
 
-cars_list = cars_list.set_index('Type')
-
 cars_list
 
-result = cars_list.to_json(orient = 'split')
+vehicle = cars_list["Type"].str.split("—", n = 1, expand = True)
+
+vehicle
+
+baseprice = cars_list["Traits"].str.split(": ", n = 1, expand = True)
+baseprice = baseprice[1].str.split(' ', expand = True)
+baseprice = baseprice[0]
+baseprice = pd.DataFrame(baseprice)
+baseprice
+baseprice[0] = baseprice[0].str.replace('EPA','')
+baseprice
+
+epafueleconomy = cars_list["Traits"].str.split("y:", n = 1, expand = True)
+epafueleconomy = epafueleconomy[1]
+epafueleconomy = pd.DataFrame(epafueleconomy)
+epafueleconomy
+epafueleconomy = epafueleconomy[1].str.split(" E", expand = True)
+epafueleconomy = epafueleconomy[0]
+epafueleconomy = pd.DataFrame(epafueleconomy)
+epafueleconomy
+
+eparange = cars_list["Traits"].str.split("ge:", n = 1, expand = True)
+eparange
+eparange = eparange[1].str.split("s", expand = True)
+eparange = eparange[0]
+eparange = pd.DataFrame(eparange)
+eparange[0] = eparange[0].str.replace('mile','miles')
+eparange
+
+cars = [vehicle[0], baseprice[0], epafueleconomy[0], eparange[0]]
+cars
+headers = ["vehicle", "baseprice", "epafueleconomy", "eparange"]
+df = pd.concat(cars, axis=1, keys=headers)
+df.set_index('vehicle')
+
+result = df.to_json(orient='index')
 result
 
 parsed = json.loads(result)
@@ -57,6 +90,6 @@ print(parsed)
 joutput = json.dumps(parsed, indent=4)
 print(joutput)
 
-f = open("jsonify.txt", "a")
+f = open("jsonify2.txt", "a")
 f.write(joutput)
 f.close()
